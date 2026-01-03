@@ -1,0 +1,15 @@
+# Entornos
+.env
+.venv/
+
+# Build
+target/
+bin/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS 
+.DS_Store
