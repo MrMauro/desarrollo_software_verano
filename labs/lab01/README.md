@@ -8,8 +8,8 @@ Este laboratorio tiene como objetivo configurar un entorno de desarrollo en Pyth
 
 - Configurar un entorno virtual en Python.
 - Estructurar correctamente un proyecto de laboratorio.
-- Gestionar dependencias con ´requirements.txt´
-- Automatizar la ejecución usando un ´Makefile´
+- Gestionar dependencias con `requirements.txt`
+- Automatizar la ejecución usando un `Makefile`
 - Versionar el proyecto con Git.
 
 ## Estructura del proyecto
